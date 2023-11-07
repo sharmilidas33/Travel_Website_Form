@@ -1,5 +1,5 @@
 # Travel_Website_Form
-A simple travel website developed using a very minimal frontend and php at backend, to clear my concepts of PHP\
+A simple travel website developed using a very minimal frontend and php at backend, to clear my concepts of PHP.
 
 ## Overview
 This is a simple travel website's form with PHP and sql at backend, created for storing the customer's datas effectively
